@@ -1,0 +1,33 @@
+"Source:","C:\Users\bung\Documents\KiCAD\CapLevelSensorTiFDC1004\CapLevelSensorTiFDC1004.sch"
+"Date:","8/24/2021 12:11:47 PM"
+"Tool:","Eeschema (5.1.10)-1"
+"Generator:","C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","11"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Type"
+"","","C1","0.1uF","Device:C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","X7R"
+"","","C2","1uF","Device:C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","X7R"
+"","","J1","Conn_01x02_Female","Connector:Conn_01x02_Female","TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal","~",""
+"","","J2","Conn_01x02_Female","Connector:Conn_01x02_Female","TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal","~",""
+"","","J3","Conn_01x02_Female","Connector:Conn_01x02_Female","TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal","~",""
+"","","J4","Conn_01x02_Female","Connector:Conn_01x02_Female","TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal","~",""
+"","","J5","Conn_01x04_Male","Connector:Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~",""
+"","","R1","10K","Device:R_Small_US","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~",""
+"","","R2","10K","Device:R_Small_US","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~",""
+"","","R3","0","Device:R_Small_US","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~",""
+"","","U1","FDC1004","CapLevelSensorLib:FDC1004","Package_SO:VSSOP-10_3x3mm_P0.5mm","",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Type"
+"1","1","C1","0.1uF","Device:C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","X7R"
+"2","1","C2","1uF","Device:C_Small","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~","X7R"
+"3","4","J1, J2, J3, J4","Conn_01x02_Female","Connector:Conn_01x02_Female","TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal","~",""
+"4","1","J5","Conn_01x04_Male","Connector:Conn_01x04_Male","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~",""
+"5","2","R1, R2","10K","Device:R_Small_US","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~",""
+"6","1","R3","0","Device:R_Small_US","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~",""
+"7","1","U1","FDC1004","CapLevelSensorLib:FDC1004","Package_SO:VSSOP-10_3x3mm_P0.5mm","",""
