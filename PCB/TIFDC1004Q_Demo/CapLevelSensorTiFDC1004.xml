@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:\Users\bung\Documents\KiCAD\CapLevelSensorTiFDC1004\CapLevelSensorTiFDC1004.sch</source>
-    <date>8/24/2021 12:11:47 PM</date>
-    <tool>Eeschema (5.1.10)-1</tool>
+    <source>C:\Users\bung\Documents\XeCapLevelMeter\PCB\TIFDC1004Q_Demo\CapLevelSensorTiFDC1004.sch</source>
+    <date>8/24/2021 5:48:11 PM</date>
+    <tool>Eeschema (5.1.6)-1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -22,6 +22,7 @@
     <comp ref="U1">
       <value>FDC1004</value>
       <footprint>Package_SO:VSSOP-10_3x3mm_P0.5mm</footprint>
+      <datasheet>https://www.digikey.com/en/products/detail/FDC1004QDGSRQ1/296-42334-1-ND/5356920?itemSeq=374797743</datasheet>
       <libsource lib="CapLevelSensorLib" part="FDC1004" description=""/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>61251C0D</tstamp>
@@ -37,7 +38,7 @@
     <comp ref="J1">
       <value>Conn_01x02_Female</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/YO0201500000G/609-4725-ND/4242160?itemSeq=374797741</datasheet>
       <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6125322E</tstamp>
@@ -45,7 +46,7 @@
     <comp ref="J2">
       <value>Conn_01x02_Female</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/YO0201500000G/609-4725-ND/4242160?itemSeq=374797741</datasheet>
       <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6125582A</tstamp>
@@ -53,7 +54,7 @@
     <comp ref="J3">
       <value>Conn_01x02_Female</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/YO0201500000G/609-4725-ND/4242160?itemSeq=374797741</datasheet>
       <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>61255BFD</tstamp>
@@ -61,7 +62,7 @@
     <comp ref="J4">
       <value>Conn_01x02_Female</value>
       <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/YO0201500000G/609-4725-ND/4242160?itemSeq=374797741</datasheet>
       <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>61256087</tstamp>
@@ -69,7 +70,7 @@
     <comp ref="C1">
       <value>0.1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/08055C104KAT4A/478-10836-1-ND/7536355?itemSeq=374797745</datasheet>
       <fields>
         <field name="Type">X7R</field>
       </fields>
@@ -80,7 +81,7 @@
     <comp ref="C2">
       <value>1uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/885012207051/732-7664-1-ND/5454291?itemSeq=374797744</datasheet>
       <fields>
         <field name="Type">X7R</field>
       </fields>
@@ -91,7 +92,7 @@
     <comp ref="R1">
       <value>10K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/RNCP0805FTD10K0/RNCP0805FTD10K0CT-ND/2240601?itemSeq=374797742</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6125B238</tstamp>
@@ -99,7 +100,7 @@
     <comp ref="R2">
       <value>10K</value>
       <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
-      <datasheet>~</datasheet>
+      <datasheet>https://www.digikey.com/en/products/detail/RNCP0805FTD10K0/RNCP0805FTD10K0CT-ND/2240601?itemSeq=374797742</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamp>6125BC1E</tstamp>
@@ -197,7 +198,7 @@
   </libparts>
   <libraries>
     <library logical="CapLevelSensorLib">
-      <uri>C:\Users\bung\Documents\KiCAD\CapLevelSensorTiFDC1004/CapLevelSensorLib.lib</uri>
+      <uri>C:\Users\bung\Documents\XeCapLevelMeter\PCB\TIFDC1004Q_Demo/CapLevelSensorLib.lib</uri>
     </library>
     <library logical="Connector">
       <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>

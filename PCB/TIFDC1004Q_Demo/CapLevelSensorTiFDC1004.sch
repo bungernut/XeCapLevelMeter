@@ -20,7 +20,7 @@ P 5850 2750
 F 0 "U1" H 5850 3115 50  0000 C CNN
 F 1 "FDC1004" H 5850 3024 50  0000 C CNN
 F 2 "Package_SO:VSSOP-10_3x3mm_P0.5mm" H 5600 2700 50  0001 C CNN
-F 3 "" H 5600 2700 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/FDC1004QDGSRQ1/296-42334-1-ND/5356920?itemSeq=374797743" H 5600 2700 50  0001 C CNN
 	1    5850 2750
 	1    0    0    -1  
 $EndComp
@@ -42,7 +42,7 @@ P 4250 2150
 F 0 "J1" H 4142 2335 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 4142 2244 50  0000 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 4250 2150 50  0001 C CNN
-F 3 "~" H 4250 2150 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/YO0201500000G/609-4725-ND/4242160?itemSeq=374797741" H 4250 2150 50  0001 C CNN
 	1    4250 2150
 	-1   0    0    -1  
 $EndComp
@@ -53,7 +53,7 @@ P 4250 2550
 F 0 "J2" H 4142 2735 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 4142 2644 50  0000 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 4250 2550 50  0001 C CNN
-F 3 "~" H 4250 2550 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/YO0201500000G/609-4725-ND/4242160?itemSeq=374797741" H 4250 2550 50  0001 C CNN
 	1    4250 2550
 	-1   0    0    -1  
 $EndComp
@@ -64,7 +64,7 @@ P 4250 2950
 F 0 "J3" H 4142 3135 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 4142 3044 50  0000 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 4250 2950 50  0001 C CNN
-F 3 "~" H 4250 2950 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/YO0201500000G/609-4725-ND/4242160?itemSeq=374797741" H 4250 2950 50  0001 C CNN
 	1    4250 2950
 	-1   0    0    -1  
 $EndComp
@@ -75,7 +75,7 @@ P 4250 3350
 F 0 "J4" H 4142 3535 50  0000 C CNN
 F 1 "Conn_01x02_Female" H 4142 3444 50  0000 C CNN
 F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal" H 4250 3350 50  0001 C CNN
-F 3 "~" H 4250 3350 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/YO0201500000G/609-4725-ND/4242160?itemSeq=374797741" H 4250 3350 50  0001 C CNN
 	1    4250 3350
 	-1   0    0    -1  
 $EndComp
@@ -128,7 +128,7 @@ P 6550 2950
 F 0 "C1" H 6500 2750 50  0000 L CNN
 F 1 "0.1uF" H 6400 2650 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6550 2950 50  0001 C CNN
-F 3 "~" H 6550 2950 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/08055C104KAT4A/478-10836-1-ND/7536355?itemSeq=374797745" H 6550 2950 50  0001 C CNN
 F 4 "X7R" H 6550 2950 50  0001 C CNN "Type"
 	1    6550 2950
 	1    0    0    -1  
@@ -140,7 +140,7 @@ P 6750 2950
 F 0 "C2" H 6700 2750 50  0000 L CNN
 F 1 "1uF" H 6700 2650 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" H 6750 2950 50  0001 C CNN
-F 3 "~" H 6750 2950 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/885012207051/732-7664-1-ND/5454291?itemSeq=374797744" H 6750 2950 50  0001 C CNN
 F 4 "X7R" H 6750 2950 50  0001 C CNN "Type"
 	1    6750 2950
 	1    0    0    -1  
@@ -152,7 +152,7 @@ P 6850 2750
 F 0 "R1" H 6800 2950 50  0000 L CNN
 F 1 "10K" H 6750 3050 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 6850 2750 50  0001 C CNN
-F 3 "~" H 6850 2750 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/RNCP0805FTD10K0/RNCP0805FTD10K0CT-ND/2240601?itemSeq=374797742" H 6850 2750 50  0001 C CNN
 	1    6850 2750
 	1    0    0    -1  
 $EndComp
@@ -163,7 +163,7 @@ P 7000 2750
 F 0 "R2" H 6950 2950 50  0000 L CNN
 F 1 "10K" H 6950 3050 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" H 7000 2750 50  0001 C CNN
-F 3 "~" H 7000 2750 50  0001 C CNN
+F 3 "https://www.digikey.com/en/products/detail/RNCP0805FTD10K0/RNCP0805FTD10K0CT-ND/2240601?itemSeq=374797742" H 7000 2750 50  0001 C CNN
 	1    7000 2750
 	1    0    0    -1  
 $EndComp
@@ -252,4 +252,6 @@ Wire Wire Line
 	5950 3350 6250 3350
 Wire Wire Line
 	6250 3350 6250 3050
+Text Notes 7000 7050 0    157  ~ 0
+nEXOCapLevelMeter Board\nSCH-246-112-06-C00
 $EndSCHEMATC
