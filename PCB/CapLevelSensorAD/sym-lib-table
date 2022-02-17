@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CapLevelSensorLib)(type Legacy)(uri ${KIPRJMOD}/CapLevelSensorLib.lib)(options "")(descr ""))
+)

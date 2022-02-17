@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name CapLevelSensorAD)(type KiCad)(uri ${KIPRJMOD}/CapLevelSensorAD.pretty)(options "")(descr ""))
+)
