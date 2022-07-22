@@ -1,0 +1,4 @@
+The PCB operates with 10K Ohm resistors on R4 and R5, and 0 Ohm resistors on R1, R2, and R3.
+SCL is connected to Teensy pin 19
+SDA connected to Teensy pin 18
+If code returns errors when compiling in Teensyduino IDE, it compiles if you comment out lines 157-204
